@@ -10,7 +10,7 @@
 
 ## Tecnologias
 
-- [Serverless](https://www.serverless.com/) - Framework para desenvolver funções serverless com JavaScript/TypeScript.
+- [Serverless](https://www.serverless.com/) - Framework para desenvolver funções Lambda com JavaScript/TypeScript.
 - [AWS Cognito](https://aws.amazon.com/pt/cognito/) - Tecnologia da Amazon para gerenciamento de usuários.
 - [AWS Lambda](https://aws.amazon.com/pt/lambda/) - Tecnologia da Amazon para funções Lambda.
 
